@@ -31,6 +31,27 @@
 
 
 
+### 其他
+
+C 是最伟大的编程语言
+C++ 是继承最成功的语言
+Java 是饭碗最稳固的语言
+C# 是更好的 Java 语言
+Kotlin 是最好的 Java 语言
+Scala 是另一个 Haskell 语言
+Clojure 是工程化最好的 Lisp 方言
+Python 是最万能的语言
+PHP 是最便捷轻量的 Web 后端语言
+JavaScript 是全栈语言
+Ruby 是和框架联系最紧密的语言
+Rust 是编译器水平最高的语言
+Go 是平衡度最好的语言
+英语是所有编程语言的基础语言
+
+
+
+
+
 ### Reference
 
 - https://www.zhihu.com/question/48633827/answer/254037101
